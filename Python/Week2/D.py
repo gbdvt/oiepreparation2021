@@ -1,0 +1,1 @@
+int("YES" if int(input())*int(input())<=int(input()) else "NO")
